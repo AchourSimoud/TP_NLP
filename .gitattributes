@@ -1,0 +1,2 @@
+models/GoogleNews-vectors-negative300.bin.gz filter=lfs diff=lfs merge=lfs -text
+data/yelp-text-by-stars.csv filter=lfs diff=lfs merge=lfs -text
